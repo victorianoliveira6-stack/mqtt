@@ -5,7 +5,7 @@ import serial
 # ==========================================
 # 1. CONFIGURAÇÕES INICIAIS
 # ==========================================
-PORTA_SERIAL = 'COM4'              # Ajustar conforme a porta do Arduino do aluno
+PORTA_SERIAL = 'COM5'              # Ajustar conforme a porta do Arduino do aluno
 BAUD_RATE = 9600
 BROKER_MQTT = 'broker.hivemq.com'  
 PORTA_MQTT = 1883                  # Porta padrão para MQTT estável no Python
